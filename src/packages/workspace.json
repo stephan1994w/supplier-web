@@ -1,0 +1,12 @@
+{
+  "repositories": {
+    "default": {
+      "supplier": "git@github.com:Signaturize/supplier-libraries.git",
+      "sg-utils": "git@github.com:Signaturize/sg-utils.git",
+      "react-form": "git@github.com:Signaturize/react-form.git",
+      "react-utils": "git@github.com:Signaturize/react-utils.git",
+      "signaturize_auth": "git@github.com:Signaturize/signaturize_auth.git",
+      "signaturize_resources": "git@github.com:Signaturize/signaturize_resources.git"
+    }
+  }
+}
