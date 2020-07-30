@@ -1,0 +1,8 @@
+repo=.
+repo=src/packages/supplier
+repo=src/packages/sg-utils
+repo=src/packages/react-form
+repo=src/packages/react-utils
+repo=src/packages/signaturize_auth
+repo=src/packages/signaturize_resources
+serial=True

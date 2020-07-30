@@ -1,0 +1,19 @@
+{
+  "awsConfig": {
+    "s3": {
+      "bucketRegion": "eu-west-2",
+      "bucket": "signaturize",
+      "productBucketName": "signaturize"
+    },
+    "cognito": {
+      "userPoolId": "eu-west-1_alzlZxP0J",
+      "appClientId": "2f63jq1lto89pjk371mds7nj8s",
+      "region": "eu-west-1",
+      "identityPoolId": "eu-west-1:38b476d2-3f7d-48a0-8395-33a633eb3ae4"
+    },
+    "appSync": {
+      "url": "https://mbz2gk5gyfdt3kasusocr6p22q.appsync-api.eu-west-1.amazonaws.com/graphql"
+    }
+  },
+  "isExternal": false
+}
